@@ -1,0 +1,14 @@
+body {
+    min-height: 75rem;
+}
+
+#loadingWindow .modal-content {
+    padding: 15px;
+}
+
+#loadingWindow .loading-text {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 5px;
+    margin-left: 20px;
+}
